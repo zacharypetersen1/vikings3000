@@ -1,0 +1,24 @@
+{
+	"name": "Shrine",
+	"buildFlavor": "Barracks flavor text",
+	"usedTiles": [
+		0,0,
+		0,-1
+	],
+	"unusedTiles": [
+		-1,1,
+		0,1,
+		1,1,
+		1,0,
+		-1,0
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"longBoat",
+		"barracks",
+	],
+	"abilityName": "Prayer",
+	"abilityCost": 10,
+	"abilityFlavor": "Ability Flavor",
+	"abilityCooldown": 1.5
+}

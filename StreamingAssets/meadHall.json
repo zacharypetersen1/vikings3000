@@ -1,0 +1,21 @@
+{
+	"name": "Mead Hall",
+	"buildFlavor": "Don't read EAT.",
+	"usedTiles": [
+		0,1,
+		1,1,
+		1,0
+	],
+	"unusedTiles": [
+		0,0
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"wishingWell",
+		"danceHall"
+	],
+	"abilityName": "Feast",
+	"abilityCost": 30,
+	"abilityFlavor": "This feast is so large even Michael Phelps would get nervous.",
+	"abilityCooldown": 1.5
+}

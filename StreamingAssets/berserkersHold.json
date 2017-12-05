@@ -1,0 +1,22 @@
+{
+	"name": "Berserkers Hold",
+	"buildFlavor": "AHHHHAHAHHHEEEEEERRRRGGGGHHHH -Bjorn the Berserker",
+	"usedTiles": [
+		0,0,
+		-1,1,
+		1,0,
+		2,-1
+	],
+	"unusedTiles": [
+		-1,0,
+		2,0
+	],
+	"buildCost": 10,
+	"canBuild": [
+		
+	],
+	"abilityName": "Berserk",
+	"abilityCost": 20,
+	"abilityFlavor": "Pure energy sent from the gods courses through the viking’s tired limbs rejuvenating them.",
+	"abilityCooldown": 1.5
+}

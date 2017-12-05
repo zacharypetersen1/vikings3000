@@ -1,0 +1,23 @@
+{
+	"name": "Dragon Pen",
+	"buildFlavor": "That's right, they're real in the future.",
+	"usedTiles": [
+		0,2,
+		1,-1
+	],
+	"unusedTiles": [
+		0,1,
+		0,0,
+		1,1,
+		1,0
+	],
+	"buildCost": 50,
+	"canBuild": [
+		"longBoat",
+		"barracks"
+	],
+	"abilityName": "",
+	"abilityCost": 10,
+	"abilityFlavor": "Ability Flavor",
+	"abilityCooldown": 1.5
+}

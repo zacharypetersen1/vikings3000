@@ -1,0 +1,23 @@
+{
+	"name": "Wishing Well",
+	"buildFlavor": "What would you wish for?",
+	"usedTiles": [
+		-1,0,
+		1,0,
+		0,-1
+	],
+	"unusedTiles": [
+		0,1,
+		0,0
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"longBoat",
+		"dragonPen",
+		"drumBoat"
+	],
+	"abilityName": "Donation",
+	"abilityCost": 60,
+	"abilityFlavor": "'You know what would be fun? If we all went and threw our gold down that well!'",
+	"abilityCooldown": 1.5
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Drum Boat",
+	"buildFlavor": "BOOM BOOM BOOM BOOM BOOM. All we need now is a bagpipe.",
+	"usedTiles": [
+		0,2,
+		2,0,
+		0,-2,
+		-2,0
+	],
+	"unusedTiles": [
+		0,1,
+		0,0,
+		1,0,
+		0,-1,
+		-1,0
+	],
+	"buildCost": 20,
+	"canBuild": [
+		"longBoat",
+		"barracks"
+	],
+	"abilityName": "Wardrums",
+	"abilityCost": 30,
+	"abilityFlavor": "The thunderous drums pierce the minds of the vikings and fill them with ravenous glee.",
+	"abilityCooldown": 1.5
+}

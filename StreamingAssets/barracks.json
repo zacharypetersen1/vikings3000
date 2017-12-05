@@ -1,0 +1,21 @@
+{
+	"name": "Barracks",
+	"buildFlavor": "A punch in the face a day makes the pain go away.",
+	"usedTiles": [
+		0,0,
+		1,0
+	],
+	"unusedTiles": [
+
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"longBoat",
+		"dragonPen",
+		"berserkersHold"
+	],
+	"abilityName": "",
+	"abilityCost": 10,
+	"abilityFlavor": "Ability Flavor",
+	"abilityCooldown": 1.5
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Cheiftains Hold",
+	"buildFlavor": "cheif flavor text",
+	"usedTiles": [
+		0,0,
+		-1,1,
+		0,1,
+		1,1,
+		1,0,
+		1,-1,
+		0,-1,
+		-1,-1,
+		-1,0
+	],
+	"unusedTiles": [
+
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"longBoat",
+		"barracks",
+		"danceHall"
+	],
+	"abilityName": "",
+	"abilityCost": 10,
+	"abilityFlavor": "Ability Flavor",
+	"abilityCooldown": 1.5
+}

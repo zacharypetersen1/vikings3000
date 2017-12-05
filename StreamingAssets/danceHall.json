@@ -1,0 +1,22 @@
+{
+	"name": "Dance Hall",
+	"buildFlavor": "Dancing and fighting are basically the same thing minus the weapons.",
+	"usedTiles": [
+		-1,0,
+		1,0,
+		1,-1
+	],
+	"unusedTiles": [
+		0,0
+	],
+	"buildCost": 20,
+	"canBuild": [
+		"barracks",
+		"meadHall",
+		"berserkersHold"
+	],
+	"abilityName": "Rave",
+	"abilityCost": 10,
+	"abilityFlavor": "Party hard like its 896.",
+	"abilityCooldown": 1.5
+}

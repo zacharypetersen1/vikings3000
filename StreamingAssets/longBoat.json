@@ -1,0 +1,22 @@
+{
+	"name": "Longboat",
+	"buildFlavor": "Because nothing about us viking is short if you catch my drift.",
+	"usedTiles": [
+		0,0,
+		0,-1,
+		0,1
+	],
+	"unusedTiles": [
+
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"barracks",
+		"meadHall",
+		"danceHall"
+	],
+	"abilityName": "",
+	"abilityCost": 10,
+	"abilityFlavor": "Ability Flavor",
+	"abilityCooldown": 1.5
+}

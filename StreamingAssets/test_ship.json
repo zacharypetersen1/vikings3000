@@ -1,0 +1,27 @@
+{
+	"name": "Test Ship",
+	"buildFlavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+	"usedTiles": [
+		0,0,
+		1,0,
+		2,0,
+		1,1,
+		1,-1
+	],
+	"unusedTiles": [
+		0,1,
+		0,-1,
+		2,1,
+		2,-1
+	],
+	"buildCost": 10,
+	"canBuild": [
+		"test_ship",
+		"longBoat",
+		"barracks"
+	],
+	"abilityName": "TestAbility",
+	"abilityCost": 10,
+	"abilityFlavor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+	"abilityCooldown": 1.5
+}
